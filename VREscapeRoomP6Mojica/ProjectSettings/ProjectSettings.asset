@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 00000000000000000000000000000000
+  productGUID: 8750eb08dbbb28a44acb27d311166747
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -787,7 +787,7 @@ PlayerSettings:
   cloudProjectId: f2648eba-12e9-4630-90ad-258a2ac09d5c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: VREscapeRoomP6Mojica
   organizationId: jmojica23
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
